@@ -1,8 +1,12 @@
 # project1
 demo project
 
-Manikanta jonnalagadda
+# Manikanta jonnalagadda
 
-jonnalagaddamani13@gmail.com
+# jonnalagaddamani13@gmail.com
 
-information technology
+## information technology
+
+# collage: RVR&JC COLLAGE OF ENGINEERING
+
+# MOBILE NO:XXXXXXXXX
