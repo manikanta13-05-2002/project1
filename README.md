@@ -7,6 +7,6 @@ demo project
 
 ## information technology
 
-# collage: RVR&JC COLLAGE OF ENGINEERING
+# college: RVR&JC COLLEGE OF ENGINEERING
 
 # MOBILE NO:XXXXXXXXX
